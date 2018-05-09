@@ -12,6 +12,6 @@ In the realm of computational linguistics, I am familiar with the NLTK Python li
 
 With regards to devops and team leadership skills, I am capable with Scrum methodologies, Agile development, Jira, Docker, Git workflows, some continuous integration/continuous deployment (CI/CD) technologies, and cloud-based deployment infrastructure such as DigitalOcean and AWS.
 
-This website is an ongoing project. I will be adding more facilities in the near future.
+This website is an ongoing project - expect new features or pages to appear over time.
 
 You can email me at mo (at) (this domain), or mozebdi (at) umich (dot) edu.
