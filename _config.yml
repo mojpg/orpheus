@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Orpheus
-description: >- # this means to ignore newlines until "baseurl:"
-  Homepage of Mo Zebdi - Computer Science + Linguistics student @ University of Michigan.
+description: My name is Mo Zebdi. I'm a Computer Science and Linguistics student @ University of Michigan. This is my tiny square of the internet.
+# this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://orpheus.one # the base hostname & protocol for your site, e.g. http://example.com
 github_username: mozebdi
+github_repo: orpheus
 theme: jekyll-swiss
 theme_color: black
 # Build settings
